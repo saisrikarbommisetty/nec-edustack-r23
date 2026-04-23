@@ -1,3 +1,3 @@
-# Welcome to your My project
+# Welcome to My project
 
-TODO: Document your project here
+You will explore all the required course PDFs.
